@@ -1,0 +1,252 @@
+@media screen and (max-width:1160px){
+    /* =========banner area start========= */
+    .banner-text h1{
+        font-size: 100px;
+    } 
+    /* =========banner area end========= */ 
+    /* ============image generator start====== */
+    
+    input{
+        width:900px ;
+    }
+   
+}
+    /* ============image generator end====== */
+    @media screen and (max-width:1090px){
+        input{
+            width:860px ;
+        }
+       
+    }
+@media screen and (max-width:1060px){
+    /* =========banner area start========= */
+    .banner-btn{
+        padding:10px 100px;
+       
+    }
+    /* =========banner area end========= */
+     /* ============image generator start====== */
+
+     input{
+        width:800px ;
+    }
+    /* ============image generator end====== */
+
+}
+@media screen and (max-width:990px){
+    input{
+        width:750px ;
+    }
+}
+@media screen and (max-width:950px){
+    input{
+        width:700px ;
+    }
+}
+
+@media screen and (max-width:886px){
+    /* =========banner area start========= */
+    .banner-text h1{
+        font-size: 80px;
+    } 
+    /* =========banner area end========= */
+     /* ============image generator start====== */
+     input{
+        width:680px ;
+        height:70px;
+       
+    }
+    .generate{
+        width: 150px;
+        height: 70px;
+    }
+    /* ============image generator end====== */
+}
+@media screen and (max-width:886px){
+    input{
+        width:650px ;
+        height:70px;
+        font-size: 20px;
+       
+    }
+    .generate{
+        width: 150px;
+        height: 70px;
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:820px){
+    .generator-title h2{
+        font-size: 50px;
+    }
+    input{
+        width:600px ;
+        height:70px;
+        font-size: 20px;
+       
+    }
+    .generate{
+        width: 150px;
+        height: 70px;
+        font-size: 20px;
+    }
+
+}
+
+
+@media screen and (max-width:778px){
+    /* =========banner area start========= */
+    .banner-text h1{
+        font-size: 60px;
+    } 
+    .banner-btn{
+        padding:10px 50px; 
+    }
+    /* =========banner area end========= */  
+     /* ============image generator start====== */
+     input{
+        width:550px ;
+        height:70px;
+        font-size: 20px;
+       
+    }
+    .generate{
+        width: 150px;
+        height: 70px;
+       
+        font-size: 20px;
+    }
+    
+    /* ============image generator end====== */ 
+}
+@media screen and (max-width:720px){
+    .generator-title h2{
+        font-size: 40px;
+    }
+    .generator-title h6{
+        font-size: 20px;
+    }
+    input{
+        width:450px;
+        height:70px;
+        font-size: 15px;
+       
+    }
+    .generate{
+        width: 130px;
+        height: 70px;
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:590px){
+    .generator-title h2{
+        font-size: 35px;
+    }
+    .generator-title h6{
+        font-size: 15px;
+    }
+    input{
+        width:400px;
+        height:60px;
+        font-size: 12px;
+       
+    }
+    .generate{
+        width: 110px;
+        height: 60px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:550px){
+    /* =========banner area start========= */
+    .banner-text h1{
+        font-size: 40px;
+    } 
+    .banner-btn{
+        padding:5px 20px;
+        font-size: 10px;
+       
+    }
+    .banner-text h6{
+        font-size: 10px;
+    }
+    /* =========banner area end========= */
+     /* ============image generator start====== */
+
+     .generator-title h2{
+        font-size: 35px;
+    }
+    .generator-title h6{
+        font-size: 15px;
+    }
+    input{
+        width:400px;
+        height:60px;
+        font-size: 12px;
+       
+    }
+    .generate{
+        width: 110px;
+        height: 60px;
+        font-size: 12px;
+    }
+    /* ============image generator end====== */
+}
+@media screen and (max-width:520px){
+    .generator-title h2{
+        font-size: 35px;
+    }
+    .generator-title h6{
+        font-size: 15px;
+    }
+    input{
+        width:360px;
+        height:60px;
+        font-size: 12px;
+       
+    }
+    .generate{
+        width: 110px;
+        height: 60px;
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:480px){
+    .generator-title h2{
+        font-size: 30px;
+    }
+    .generator-title h6{
+        font-size: 15px;
+    }
+    input{
+        width:320px;
+        height:60px;
+        font-size: 12px;
+       
+    }
+    .generate{
+        width: 110px;
+        height: 60px;
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:440px){
+    .generator-title h2{
+        font-size: 25px;
+    }
+    .generator-title h6{
+        font-size: 12px;
+    }
+    input{
+        width:280px;
+        height:60px;
+        font-size: 12px;
+       
+    }
+    .generate{
+        width: 110px;
+        height: 60px;
+        font-size: 12px;
+    }
+}
